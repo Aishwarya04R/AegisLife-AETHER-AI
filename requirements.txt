@@ -4,7 +4,7 @@ pandas==2.2.3
 numpy==1.26.4
 scikit-learn==1.8.0
 python-dotenv==1.2.2
-shap==0.51.0
+shap==0.44.1
 groq==1.2.0
 matplotlib==3.10.9
 chromadb==0.4.24
