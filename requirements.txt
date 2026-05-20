@@ -9,3 +9,4 @@ groq==1.2.0
 matplotlib==3.10.9
 chromadb==0.4.24
 protobuf==3.20.3
+sentence-transformers==2.7.0
