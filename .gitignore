@@ -1,0 +1,23 @@
+# Secrets - NEVER push this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.conda/
+
+# Chroma vector DB (large, rebuild on startup)
+chroma_db/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
