@@ -148,7 +148,7 @@ using an LLM with Retrieval-Augmented Generation.
 | Machine Learning | XGBoost, LightGBM, Scikit-Learn |
 | Deep Learning | TensorFlow, PyTorch, LSTM, GRU, BiLSTM |
 | NLP | ClinicalBERT, Hugging Face |
-| Explainable AI | SHAP,  |
+| Explainable AI | SHAP |
 | Dashboard | Streamlit |
 | Visualization | Plotly, Matplotlib |
 ---
