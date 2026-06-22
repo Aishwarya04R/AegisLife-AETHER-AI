@@ -101,7 +101,6 @@ LLM-powered Clinical Intelligence
 Provides transparent predictions using
 
 - SHAP
-- LIME
 - Attention Heatmaps
 
 allowing healthcare professionals to understand why a prediction was made.
@@ -149,7 +148,6 @@ using an LLM with Retrieval-Augmented Generation.
 ## Explainable AI
 
 - SHAP
-- LIME
 - Grad-CAM
 
 ## Dashboard
@@ -175,10 +173,6 @@ The framework is trained using healthcare datasets including:
 > **Note:** Due to licensing restrictions, the original healthcare dataset is not included in this repository.
 
 ---
-
-# 🧠 System Architecture
-
-(Add your architecture image here)
 
 # 🧠 System Architecture
 
