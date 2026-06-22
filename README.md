@@ -10,8 +10,6 @@
 </p>
 
 ## 🌐 Live Demo
-
-### 🟢 Explainable AI (LIME) Demo
 👉 **https://aegislife-aether-ai.streamlit.app/**
 
 ---
