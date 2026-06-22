@@ -206,6 +206,40 @@ and validated using
 
 # 📷 Project Screenshots
 
+<h2>📊 Dashboard</h2>
+
+<p align="center">
+  <img src="AegisDashboard.png" width="48%">
+  <img src="AegisPatientOverView.png" width="48%">
+</p>
+
+<h2>🩺 Prediction</h2>
+
+<p align="center">
+  <img src="AegisNewPatient.png" width="48%">
+  <img src="AegisRiskPrediction.png" width="48%">
+</p>
+
+<h2>🔍 Explainable AI</h2>
+
+<p align="center">
+  <img src="AegisShap.png" width="48%">
+  <img src="AegisAiHealth.png" width="48%">
+</p>
+
+<h2>💊 Recommendation Engine</h2>
+
+<p align="center">
+  <img src="AegisPreventionEngine.png" width="48%">
+  <img src="AegisWhatIf.png" width="48%">
+</p>
+
+<h2>📅 12-Month Risk Forecast</h2>
+
+<p align="center">
+  <img src="Aegis12Months.png" width="70%">
+</p>
+
 ## Dashboard
 
 <img src="screenshots/dashboard.png">
