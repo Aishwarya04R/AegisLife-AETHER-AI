@@ -9,9 +9,11 @@
   <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-## 🌐 Live Demo
-
-👉 **https://aegislife-aether-ai.streamlit.app/**
+<p align="center">
+<a href="https://aegislife-aether-ai.streamlit.app/">
+<img src="https://img.shields.io/badge/Launch-Live%20Demo-success?style=for-the-badge&logo=streamlit">
+</a>
+</p>
 
 ---
 
