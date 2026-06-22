@@ -1,3 +1,7 @@
+<p align="center">
+<img src="AegisDashboard.png" width="100%">
+</p>
+
 # 🛡️ AegisLife – AETHER AI
 ### AI-Enabled Health Evaluation & Early Risk Prediction Framework
 
@@ -16,6 +20,20 @@
 </p>
 
 ---
+## 📑 Table of Contents
+
+- Overview
+- Key Features
+- Tech Stack
+- Dataset
+- System Architecture
+- Model Performance
+- Project Screenshots
+- Installation
+- Project Structure
+- Research Contributions
+- SDGs
+- Contributors
 
 # 📖 Overview
 
@@ -124,43 +142,15 @@ using an LLM with Retrieval-Augmented Generation.
 
 # ⚙️ Tech Stack
 
-## Programming
-
-- Python
-
-## Machine Learning
-
-- XGBoost
-- LightGBM
-- Scikit-Learn
-
-## Deep Learning
-
-- TensorFlow
-- PyTorch
-- LSTM
-- GRU
-- BiLSTM
-
-## NLP
-
-- ClinicalBERT
-- HuggingFace Transformers
-
-## Explainable AI
-
-- SHAP
-- Grad-CAM
-
-## Dashboard
-
-- Streamlit
-
-## Visualization
-
-- Plotly
-- Matplotlib
-
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Machine Learning | XGBoost, LightGBM, Scikit-Learn |
+| Deep Learning | TensorFlow, PyTorch, LSTM, GRU, BiLSTM |
+| NLP | ClinicalBERT, Hugging Face |
+| Explainable AI | SHAP,  |
+| Dashboard | Streamlit |
+| Visualization | Plotly, Matplotlib |
 ---
 
 # 🗂 Dataset
@@ -194,11 +184,7 @@ The framework is evaluated using
 - F1 Score
 - AUROC
 
-and validated using
-
-- McNemar's Test
-- SHAP Explainability
-- Attention Analysis
+The model's predictions are further validated using Explainable AI (SHAP), Attention Analysis, and statistical significance testing with McNemar's Test.
 
 ---
 
@@ -266,25 +252,6 @@ streamlit run app.py
 
 ---
 
-# 📂 Project Structure
-
-```
-AegisLife-AETHER-AI
-│
-├── app.py
-├── models
-├── data
-├── notebooks
-├── utils
-├── explainability
-├── recommendation_engine
-├── screenshots
-├── requirements.txt
-└── README.md
-```
-
----
-
 # 🔬 Research Contributions
 
 ✔ Multimodal Healthcare AI
@@ -321,12 +288,16 @@ Supervisor:
 
 **Dr. Prabadevi B**
 
-Department of Computer Science & Engineering
+**Dr. Prabadevi B**
 
+Associate Professor  
+Department of Computer Science & Engineering  
 M. S. Ramaiah University of Applied Sciences
 
 ---
 
 # 📜 License
 
-This project is developed for academic and research purposes.
+This project is intended for academic, educational, and research purposes only.
+
+The healthcare datasets used in this project are subject to their respective licensing terms and are therefore not redistributed in this repository.
