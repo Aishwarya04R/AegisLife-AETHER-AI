@@ -178,7 +178,9 @@ The framework is trained using healthcare datasets including:
 
 # 🧠 System Architecture
 
-![System Architecture](aegislife_architecture%20(6).png)
+<p align="center">
+<img src="aegislife_architecture%20(6).png" width="95%">
+</p>
 
 ---
 
