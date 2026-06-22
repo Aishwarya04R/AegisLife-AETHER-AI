@@ -180,9 +180,9 @@ The framework is trained using healthcare datasets including:
 
 (Add your architecture image here)
 
-```
-docs/system_architecture.png
-```
+# 🧠 System Architecture
+
+![System Architecture](aegislife_architecture%20(6).png)
 
 ---
 
@@ -239,36 +239,6 @@ and validated using
 <p align="center">
   <img src="Aegis12Months.png" width="70%">
 </p>
-
-## Dashboard
-
-<img src="screenshots/dashboard.png">
-
----
-
-## Risk Prediction
-
-<img src="screenshots/prediction.png">
-
----
-
-## SHAP Explainability
-
-<img src="screenshots/shap.png">
-
----
-
-## LIME Explainability
-
-<img src="screenshots/lime.png">
-
----
-
-## AI Recommendation Engine
-
-<img src="screenshots/recommendation.png">
-
----
 
 # 🚀 Installation
 
